@@ -86,7 +86,7 @@ author:
   location         : "New York City, NY"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=s2YA4rEAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=s2YA4rEAAAAJ&hl=en&oi=ao"
   email            : "sy2366@nyu.edu"
   researchgate     : "https://www.researchgate.net/profile/Shuaihang_Yuan"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/shuaihang-yuan-a7b8231a2/"
+  linkedin         : "www.linkedin.com/in/shuaihang-yuan-a7b8231a2"
   orcid            : "https://orcid.org/0000-0002-7092-7966"
   pinterest        :
   soundcloud       :
