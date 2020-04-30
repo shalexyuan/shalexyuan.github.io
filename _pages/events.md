@@ -1,10 +1,8 @@
 ---
 layout: archive
-title: "Events"
-permalink: /events/
+title: "Publications"
+permalink: /publications/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
