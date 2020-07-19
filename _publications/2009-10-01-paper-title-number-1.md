@@ -2,14 +2,14 @@
 title: "An assistive low-vision platform that augments spatial cognition through proprioceptive guidance: Point-to-Tell-and-Touch"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Spatial cognition, as gained through the sense of vision, is one of the most important capabilities of human beings. However, for the visually impaired (VI), lack of this perceptual capability poses great challenges in their life. Therefore, we have designed Point-to-Tell-and-Touch, a wearable system with an ergonomic human-machine interface, for assisting the VI with active environmental exploration, with a particular focus on spatial intelligence and navigation to objects of interest in an alien environment.'
 date: 2010-11-01
-venue: 'Journal 1'
+venue: ''
 paperurl: 'https://nyuscholars.nyu.edu/en/publications/an-assistive-low-vision-platform-that-augments-spatial-cognition-'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Gui, W., Li, B., Yuan, S., Rizzo, J. R., Sharma, L., Feng, C., Tzes, A., & Fang, Y. (2019). An assistive low-vision platform that augments spatial cognition through proprioceptive guidance: Point-to-Tell-and-Touch. In 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS 2019 (pp. 3817-3822).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Spatial cognition, as gained through the sense of vision, is one of the most important capabilities of human beings. However, for the visually impaired (VI), lack of this perceptual capability poses great challenges in their life. Therefore, we have designed Point-to-Tell-and-Touch, a wearable system with an ergonomic human-machine interface, for assisting the VI with active environmental exploration, with a particular focus on spatial intelligence and navigation to objects of interest in an alien environment.
 
 [Download paper here]()
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Gui, W., Li, B., Yuan, S., Rizzo, J. R., Sharma, L., Feng, C., Tzes, A., & Fang, Y. (2019). An assistive low-vision platform that augments spatial cognition through proprioceptive guidance: Point-to-Tell-and-Touch. In 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS 2019 (pp. 3817-3822).
